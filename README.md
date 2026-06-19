@@ -222,6 +222,3 @@ This project is provided for **research and educational purposes**.
 
 ---
 
-
-
-اگر بخواهی، می‌توانم یک نسخه **خیلی حرفه‌ای‌تر برای GitHub (با GIF، تصاویر نتایج، badges و ساختار research‑paper style)** هم بسازم که برای **ریپازیتوری دانشگاهی یا مقاله بسیار قوی‌تر** باشد.
